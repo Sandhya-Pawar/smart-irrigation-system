@@ -9,10 +9,11 @@ The system automates water supply based on soil moisture and allows remote monit
 
 ### 🔌 Circuit & Components
 
-![Components]https://github.com/Sandhya-Pawar/smart-irrigation-system/blob/main/Components%20implementation.jpeg?raw=true
+![Components](https://github.com/Sandhya-Pawar/smart-irrigation-system/blob/main/Components%20implementation.jpeg?raw=true)
+
 ### 📱 Blynk App Interface
 
-![Blynk App]https://github.com/Sandhya-Pawar/smart-irrigation-system/blob/main/Blynk.jpg?raw=true
+![Blynk App](https://github.com/Sandhya-Pawar/smart-irrigation-system/blob/main/Blynk.jpg?raw=true)
 
 ---
 
